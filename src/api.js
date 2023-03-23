@@ -1,11 +1,14 @@
 const express = require('express');
 const serverless = require('serverless-http');
+const cors = require('cors');
 
 const app = express();
 const router = express.Router();
 
 const menu = require('./responses/menu');
 const restaurant = require('./responses/restaurant');
+
+app.use(cors());
 
 router.get('/', (req, res) => {
   res.json({
