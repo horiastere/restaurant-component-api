@@ -7,6 +7,7 @@ const router = express.Router();
 
 const menu = require('./responses/menu');
 const restaurant = require('./responses/restaurant');
+const fashionPosts = require('./responses/fashion-posts');
 
 app.use(cors());
 
@@ -22,6 +23,10 @@ router.get('/menu', (req, res) => {
 
 router.get('/restaurant', (req, res) => {
   res.json(restaurant);
+});
+
+router.get('/fashion-posts', (req, res) => {
+  res.json(fashionPosts);
 });
 
 app.use('/.netlify/functions/api', router);
