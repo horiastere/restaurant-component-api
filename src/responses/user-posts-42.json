@@ -155,8 +155,8 @@
     },
     {
       "id": 23,
-      "mainPhoto": "https://picsum.photos/id/262/300/400",
-      "thumbnail": "https://picsum.photos/id/262/150",
+      "mainPhoto": "https://picsum.photos/id/272/300/400",
+      "thumbnail": "https://picsum.photos/id/272/150",
       "title": "Photo 3",
       "description": "Description 3",
       "userId": 42,
