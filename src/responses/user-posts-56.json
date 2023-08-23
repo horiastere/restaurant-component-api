@@ -7,7 +7,8 @@
       "title": "Photo 2",
       "description": "Description 2",
       "userId": 56,
-      "userName": "old.sckool22_fool"
+      "userName": "old.sckool22_fool",
+      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
     },
     {
       "id": 5,
@@ -16,7 +17,8 @@
       "title": "Photo 3",
       "description": "Description 3",
       "userId": 56,
-      "userName": "old.sckool22_fool"
+      "userName": "old.sckool22_fool",
+      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
     },
     {
       "id": 6,
@@ -25,7 +27,8 @@
       "title": "Photo 3",
       "description": "Description 3",
       "userId": 56,
-      "userName": "old.sckool22_fool"
+      "userName": "old.sckool22_fool",
+      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
     },
     {
       "id": 8,
@@ -34,7 +37,8 @@
       "title": "Photo 3",
       "description": "Description 3",
       "userId": 56,
-      "userName": "old.sckool22_fool"
+      "userName": "old.sckool22_fool",
+      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
     }
   ]
 }
