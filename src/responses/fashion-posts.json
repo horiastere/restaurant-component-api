@@ -2,80 +2,354 @@
   "data": [
     {
       "id": 1,
-      "url": "https://picsum.photos/id/237/300/400",
+      "mainPhoto": "https://picsum.photos/id/237/300/400",
+      "thumbnail": "https://picsum.photos/id/237/150",
       "title": "Photo 1",
       "description": "Description 1",
-      "userId": 42
+      "userId": 42,
+      "userName": "_blue.dog22"
     },
     {
       "id": 2,
-      "url": "https://picsum.photos/id/238/300/400",
+      "mainPhoto": "https://picsum.photos/id/338/300/400",
+      "thumbnail": "https://picsum.photos/id/338/150",
       "title": "Photo 2",
       "description": "Description 2",
-      "userId": 34
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 211,
+      "mainPhoto": "https://picsum.photos/id/238/300/400",
+      "thumbnail": "https://picsum.photos/id/238/150",
+      "title": "Photo 2",
+      "description": "Description 2",
+      "userId": 34,
+      "userName": "john.paul"
     },
     {
       "id": 3,
-      "url": "https://picsum.photos/id/239/300/400",
+      "mainPhoto": "https://picsum.photos/id/239/300/400",
+      "thumbnail": "https://picsum.photos/id/239/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 42
-    },
-    {
-      "id": 4,
-      "url": "https://picsum.photos/id/240/300/400",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42
+      "userId": 42,
+      "userName": "_blue.dog22"
     },
     {
       "id": 5,
-      "url": "https://picsum.photos/id/241/300/400",
+      "mainPhoto": "https://picsum.photos/id/341/300/400",
+      "thumbnail": "https://picsum.photos/id/341/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 34
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 51,
+      "mainPhoto": "https://picsum.photos/id/241/300/400",
+      "thumbnail": "https://picsum.photos/id/241/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
+    },
+    {
+      "id": 4,
+      "mainPhoto": "https://picsum.photos/id/240/300/400",
+      "thumbnail": "https://picsum.photos/id/240/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
     },
     {
       "id": 6,
-      "url": "https://picsum.photos/id/242/300/400",
+      "mainPhoto": "https://picsum.photos/id/342/300/400",
+      "thumbnail": "https://picsum.photos/id/342/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 34
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 611,
+      "mainPhoto": "https://picsum.photos/id/242/300/400",
+      "thumbnail": "https://picsum.photos/id/242/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
     },
     {
       "id": 7,
-      "url": "https://picsum.photos/id/243/300/400",
+      "mainPhoto": "https://picsum.photos/id/243/300/400",
+      "thumbnail": "https://picsum.photos/id/243/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 42
+      "userId": 42,
+      "userName": "_blue.dog22"
     },
     {
       "id": 8,
-      "url": "https://picsum.photos/id/244/300/400",
+      "mainPhoto": "https://picsum.photos/id/344/300/400",
+      "thumbnail": "https://picsum.photos/id/344/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 34
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 829,
+      "mainPhoto": "https://picsum.photos/id/244/300/400",
+      "thumbnail": "https://picsum.photos/id/244/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
     },
     {
       "id": 9,
-      "url": "https://picsum.photos/id/245/300/400",
+      "mainPhoto": "https://picsum.photos/id/247/300/400",
+      "thumbnail": "https://picsum.photos/id/247/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 42
+      "userId": 42,
+      "userName": "_blue.dog22"
     },
     {
       "id": 10,
-      "url": "https://picsum.photos/id/246/300/400",
+      "mainPhoto": "https://picsum.photos/id/300/300/400",
+      "thumbnail": "https://picsum.photos/id/300/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 34
+      "userId": 34,
+      "userName": "john.paul"
     },
     {
       "id": 11,
-      "url": "https://picsum.photos/id/247/300/400",
+      "mainPhoto": "https://picsum.photos/id/249/300/400",
+      "thumbnail": "https://picsum.photos/id/249/150",
       "title": "Photo 3",
       "description": "Description 3",
-      "userId": 42
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 12,
+      "mainPhoto": "https://picsum.photos/id/250/300/400",
+      "thumbnail": "https://picsum.photos/id/250/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 13,
+      "mainPhoto": "https://picsum.photos/id/251/300/400",
+      "thumbnail": "https://picsum.photos/id/251/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 14,
+      "mainPhoto": "https://picsum.photos/id/252/300/400",
+      "thumbnail": "https://picsum.photos/id/252/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 15,
+      "mainPhoto": "https://picsum.photos/id/253/300/400",
+      "thumbnail": "https://picsum.photos/id/253/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 16,
+      "mainPhoto": "https://picsum.photos/id/255/300/400",
+      "thumbnail": "https://picsum.photos/id/255/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 17,
+      "mainPhoto": "https://picsum.photos/id/256/300/400",
+      "thumbnail": "https://picsum.photos/id/256/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 18,
+      "mainPhoto": "https://picsum.photos/id/257/300/400",
+      "thumbnail": "https://picsum.photos/id/257/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 19,
+      "mainPhoto": "https://picsum.photos/id/258/300/400",
+      "thumbnail": "https://picsum.photos/id/258/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 20,
+      "mainPhoto": "https://picsum.photos/id/259/300/400",
+      "thumbnail": "https://picsum.photos/id/259/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 21,
+      "mainPhoto": "https://picsum.photos/id/260/300/400",
+      "thumbnail": "https://picsum.photos/id/260/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 22,
+      "mainPhoto": "https://picsum.photos/id/261/300/400",
+      "thumbnail": "https://picsum.photos/id/261/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 23,
+      "mainPhoto": "https://picsum.photos/id/272/300/400",
+      "thumbnail": "https://picsum.photos/id/272/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 24,
+      "mainPhoto": "https://picsum.photos/id/263/300/400",
+      "thumbnail": "https://picsum.photos/id/263/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 25,
+      "mainPhoto": "https://picsum.photos/id/264/300/400",
+      "thumbnail": "https://picsum.photos/id/264/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 26,
+      "mainPhoto": "https://picsum.photos/id/265/300/400",
+      "thumbnail": "https://picsum.photos/id/265/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 27,
+      "mainPhoto": "https://picsum.photos/id/266/300/400",
+      "thumbnail": "https://picsum.photos/id/266/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 28,
+      "mainPhoto": "https://picsum.photos/id/267/300/400",
+      "thumbnail": "https://picsum.photos/id/267/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 29,
+      "mainPhoto": "https://picsum.photos/id/268/300/400",
+      "thumbnail": "https://picsum.photos/id/268/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 30,
+      "mainPhoto": "https://picsum.photos/id/270/300/400",
+      "thumbnail": "https://picsum.photos/id/270/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 31,
+      "mainPhoto": "https://picsum.photos/id/271/300/400",
+      "thumbnail": "https://picsum.photos/id/271/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 32,
+      "mainPhoto": "https://picsum.photos/id/272/300/400",
+      "thumbnail": "https://picsum.photos/id/272/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 33,
+      "mainPhoto": "https://picsum.photos/id/273/300/400",
+      "thumbnail": "https://picsum.photos/id/273/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 34,
+      "mainPhoto": "https://picsum.photos/id/274/300/400",
+      "thumbnail": "https://picsum.photos/id/274/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
+    },
+    {
+      "id": 35,
+      "mainPhoto": "https://picsum.photos/id/275/300/400",
+      "thumbnail": "https://picsum.photos/id/275/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 42,
+      "userName": "_blue.dog22"
     }
   ]
 }
