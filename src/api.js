@@ -11,6 +11,7 @@ const restaurant = require('./responses/restaurant');
 const fashionPosts = require('./responses/fashion-posts');
 const userPosts34 = require('./responses/user-posts-34');
 const userPosts42 = require('./responses/user-posts-42');
+const userPosts56 = require('./responses/user-posts-56');
 
 app.use(cors());
 
@@ -38,6 +39,10 @@ router.get('/user-posts-34', (req, res) => {
 
 router.get('/user-posts-42', (req, res) => {
   res.json(userPosts42);
+});
+
+router.get('/user-posts-56', (req, res) => {
+  res.json(userPosts56);
 });
 
 app.use('/.netlify/functions/api', router);

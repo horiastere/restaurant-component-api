@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "mainPhoto": "https://picsum.photos/id/338/300/400",
+      "thumbnail": "https://picsum.photos/id/338/150",
+      "title": "Photo 2",
+      "description": "Description 2",
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 5,
+      "mainPhoto": "https://picsum.photos/id/341/300/400",
+      "thumbnail": "https://picsum.photos/id/341/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 6,
+      "mainPhoto": "https://picsum.photos/id/342/300/400",
+      "thumbnail": "https://picsum.photos/id/342/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    },
+    {
+      "id": 8,
+      "mainPhoto": "https://picsum.photos/id/344/300/400",
+      "thumbnail": "https://picsum.photos/id/344/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 56,
+      "userName": "old.sckool22_fool"
+    }
+  ]
+}
