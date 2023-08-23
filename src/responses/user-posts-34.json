@@ -38,8 +38,8 @@
     },
     {
       "id": 10,
-      "mainPhoto": "https://picsum.photos/id/246/300/400",
-      "thumbnail": "https://picsum.photos/id/246/150",
+      "mainPhoto": "https://picsum.photos/id/300/300/400",
+      "thumbnail": "https://picsum.photos/id/300/150",
       "title": "Photo 3",
       "description": "Description 3",
       "userId": 34,
