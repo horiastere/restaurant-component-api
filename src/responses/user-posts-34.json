@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "mainPhoto": "https://picsum.photos/id/238/300/400",
+      "thumbnail": "https://picsum.photos/id/238/150",
+      "title": "Photo 2",
+      "description": "Description 2",
+      "userId": 34,
+      "userName": "john.paul"
+    },
+    {
+      "id": 5,
+      "mainPhoto": "https://picsum.photos/id/241/300/400",
+      "thumbnail": "https://picsum.photos/id/241/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
+    },
+    {
+      "id": 6,
+      "mainPhoto": "https://picsum.photos/id/242/300/400",
+      "thumbnail": "https://picsum.photos/id/242/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
+    },
+    {
+      "id": 8,
+      "mainPhoto": "https://picsum.photos/id/244/300/400",
+      "thumbnail": "https://picsum.photos/id/244/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
+    },
+    {
+      "id": 10,
+      "mainPhoto": "https://picsum.photos/id/246/300/400",
+      "thumbnail": "https://picsum.photos/id/246/150",
+      "title": "Photo 3",
+      "description": "Description 3",
+      "userId": 34,
+      "userName": "john.paul"
+    }
+  ]
+}
