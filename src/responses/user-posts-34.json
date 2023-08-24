@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 2,
-      "mainPhoto": "https://picsum.photos/id/238/300/400",
+      "mainPhoto": "https://picsum.photos/id/238/500/600",
       "thumbnail": "https://picsum.photos/id/238/150",
       "title": "Photo 2",
       "description": "Description 2",
@@ -12,7 +12,7 @@
     },
     {
       "id": 5,
-      "mainPhoto": "https://picsum.photos/id/241/300/400",
+      "mainPhoto": "https://picsum.photos/id/241/500/600",
       "thumbnail": "https://picsum.photos/id/241/150",
       "title": "Photo 3",
       "description": "Description 3",
@@ -22,7 +22,7 @@
     },
     {
       "id": 6,
-      "mainPhoto": "https://picsum.photos/id/242/300/400",
+      "mainPhoto": "https://picsum.photos/id/242/500/600",
       "thumbnail": "https://picsum.photos/id/242/150",
       "title": "Photo 3",
       "description": "Description 3",
@@ -32,7 +32,7 @@
     },
     {
       "id": 8,
-      "mainPhoto": "https://picsum.photos/id/244/300/400",
+      "mainPhoto": "https://picsum.photos/id/244/500/600",
       "thumbnail": "https://picsum.photos/id/244/150",
       "title": "Photo 3",
       "description": "Description 3",
@@ -42,7 +42,7 @@
     },
     {
       "id": 10,
-      "mainPhoto": "https://picsum.photos/id/300/300/400",
+      "mainPhoto": "https://picsum.photos/id/300/500/600",
       "thumbnail": "https://picsum.photos/id/300/150",
       "title": "Photo 3",
       "description": "Description 3",
