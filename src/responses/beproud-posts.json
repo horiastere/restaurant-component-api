@@ -4,6 +4,7 @@
       "id": 1,
       "post": "Keep reaching for the stars and making your dreams come true. Nothing makes me more proud than seeing you shine.",
       "photo": null,
+      "category": 1,
       "user": {
         "userId": 42,
         "userName": "Dirty Betty NY",
@@ -15,6 +16,7 @@
       "id": 2,
       "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
       "photo": "https://triptobucharest.files.wordpress.com/2013/08/dacia_1300_1.jpg",
+      "category": 2,
       "user": {
         "userId": 56,
         "userName": "John Addams",
@@ -26,6 +28,7 @@
       "id": 3,
       "post": "Keep reaching for the stars and making your dreams come true. Nothing makes me more proud than seeing you shine.",
       "photo": null,
+      "category": 1,
       "user": {
         "userId": 42,
         "userName": "Dirty Betty NY",
@@ -37,6 +40,7 @@
       "id": 4,
       "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
       "photo": "https://triptobucharest.files.wordpress.com/2013/08/dacia_1300_1.jpg",
+      "category": 2,
       "user": {
         "userId": 56,
         "userName": "John Addams",
