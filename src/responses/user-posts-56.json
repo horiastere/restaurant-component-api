@@ -1,44 +1,90 @@
 {
-  "data": [
+  "user":{
+    "userId": 56,
+    "userName": "John Addams",
+    "userHandle": "dirty.john",
+    "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg",
+    "followers": 36,
+    "posts": 6
+  },
+  "posts": [
+    {
+      "id": 1,
+      "post": "Keep reaching for the stars and making your dreams come true. Nothing makes me more proud than seeing you shine.",
+      "photo": null,
+      "category": 1,
+      "gift": null,
+      "user": {
+        "userId": 56,
+        "userName": "John Addams",
+        "userHandle": "dirty.john",
+        "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg"
+      }
+    },
     {
       "id": 2,
-      "mainPhoto": "https://picsum.photos/id/338/500/600",
-      "thumbnail": "https://picsum.photos/id/338/150",
-      "title": "Photo 2",
-      "description": "Description 2",
-      "userId": 56,
-      "userName": "old.sckool22_fool",
-      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
+      "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
+      "photo": "https://triptobucharest.files.wordpress.com/2013/08/dacia_1300_1.jpg",
+      "category": 2,
+      "gift": 1,
+      "user": {
+        "userId": 56,
+        "userName": "John Addams",
+        "userHandle": "dirty.john",
+        "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "post": "Keep reaching for the stars and making your dreams come true. Nothing makes me more proud than seeing you shine.",
+      "photo": null,
+      "category": 1,
+      "gift": null,
+      "user": {
+        "userId": 56,
+        "userName": "John Addams",
+        "userHandle": "dirty.john",
+        "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
+      "photo": "https://triptobucharest.files.wordpress.com/2013/08/dacia_1300_1.jpg",
+      "category": 2,
+      "gift": null,
+      "user": {
+        "userId": 56,
+        "userName": "John Addams",
+        "userHandle": "dirty.john",
+        "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg"
+      }
     },
     {
       "id": 5,
-      "mainPhoto": "https://picsum.photos/id/341/500/600",
-      "thumbnail": "https://picsum.photos/id/341/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 56,
-      "userName": "old.sckool22_fool",
-      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
+      "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
+      "photo": null,
+      "category": 2,
+      "gift": null,
+      "user": {
+        "userId": 56,
+        "userName": "John Addams",
+        "userHandle": "dirty.john",
+        "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg"
+      }
     },
     {
       "id": 6,
-      "mainPhoto": "https://picsum.photos/id/342/500/600",
-      "thumbnail": "https://picsum.photos/id/342/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 56,
-      "userName": "old.sckool22_fool",
-      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
-    },
-    {
-      "id": 8,
-      "mainPhoto": "https://picsum.photos/id/344/500/600",
-      "thumbnail": "https://picsum.photos/id/344/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 56,
-      "userName": "old.sckool22_fool",
-      "userPhoto": "https://www.theprintspace.co.uk/wp-content/uploads/2019/04/Peter-image-square-compressor.jpg"
+      "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
+      "photo": null,
+      "category": 2,
+      "gift": null,
+      "user": {
+        "userId": 56,
+        "userName": "John Addams",
+        "userHandle": "dirty.john",
+        "userPhoto": "https://t1.ea.ltmcdn.com/en/posts/0/8/0/the_origin_of_the_doberman_history_and_fun_facts_80_600_square.jpg"
+      }
     }
   ]
 }
