@@ -1,304 +1,38 @@
 {
-  "data": [
+  "user":{
+    "userId": 42,
+    "userName": "Dirty Betty NY",
+    "userHandle": "boom_22_from_NY",
+    "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1",
+    "followers": 6,
+    "posts": 3
+  },
+  "posts": [
     {
       "id": 1,
-      "mainPhoto": "https://picsum.photos/id/237/500/600",
-      "thumbnail": "https://picsum.photos/id/237/150",
-      "title": "Photo 1",
-      "description": "Description 1",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
+      "post": "Keep reaching for the stars and making your dreams come true. Nothing makes me more proud than seeing you shine.",
+      "photo": null,
+      "category": 1,
+      "gift": null,
+      "user": {
+       "userId": 42,
+        "userName": "Dirty Betty NY",
+        "userHandle": "boom_22_from_NY",
+        "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
+      }
     },
     {
-      "id": 3,
-      "mainPhoto": "https://picsum.photos/id/239/500/600",
-      "thumbnail": "https://picsum.photos/id/239/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 4,
-      "mainPhoto": "https://picsum.photos/id/240/500/600",
-      "thumbnail": "https://picsum.photos/id/240/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 7,
-      "mainPhoto": "https://picsum.photos/id/243/500/600",
-      "thumbnail": "https://picsum.photos/id/243/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 9,
-      "mainPhoto": "https://picsum.photos/id/247/500/600",
-      "thumbnail": "https://picsum.photos/id/247/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 11,
-      "mainPhoto": "https://picsum.photos/id/249/500/600",
-      "thumbnail": "https://picsum.photos/id/249/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 12,
-      "mainPhoto": "https://picsum.photos/id/250/500/600",
-      "thumbnail": "https://picsum.photos/id/250/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 13,
-      "mainPhoto": "https://picsum.photos/id/251/500/600",
-      "thumbnail": "https://picsum.photos/id/251/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 14,
-      "mainPhoto": "https://picsum.photos/id/252/500/600",
-      "thumbnail": "https://picsum.photos/id/252/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 15,
-      "mainPhoto": "https://picsum.photos/id/253/500/600",
-      "thumbnail": "https://picsum.photos/id/253/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 16,
-      "mainPhoto": "https://picsum.photos/id/255/500/600",
-      "thumbnail": "https://picsum.photos/id/255/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 17,
-      "mainPhoto": "https://picsum.photos/id/256/500/600",
-      "thumbnail": "https://picsum.photos/id/256/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 18,
-      "mainPhoto": "https://picsum.photos/id/257/500/600",
-      "thumbnail": "https://picsum.photos/id/257/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 19,
-      "mainPhoto": "https://picsum.photos/id/258/500/600",
-      "thumbnail": "https://picsum.photos/id/258/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 20,
-      "mainPhoto": "https://picsum.photos/id/259/500/600",
-      "thumbnail": "https://picsum.photos/id/259/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 21,
-      "mainPhoto": "https://picsum.photos/id/260/500/600",
-      "thumbnail": "https://picsum.photos/id/260/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 22,
-      "mainPhoto": "https://picsum.photos/id/261/500/600",
-      "thumbnail": "https://picsum.photos/id/261/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 23,
-      "mainPhoto": "https://picsum.photos/id/272/500/600",
-      "thumbnail": "https://picsum.photos/id/272/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 24,
-      "mainPhoto": "https://picsum.photos/id/263/500/600",
-      "thumbnail": "https://picsum.photos/id/263/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 25,
-      "mainPhoto": "https://picsum.photos/id/264/500/600",
-      "thumbnail": "https://picsum.photos/id/264/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 26,
-      "mainPhoto": "https://picsum.photos/id/265/500/600",
-      "thumbnail": "https://picsum.photos/id/265/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 27,
-      "mainPhoto": "https://picsum.photos/id/266/500/600",
-      "thumbnail": "https://picsum.photos/id/266/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 28,
-      "mainPhoto": "https://picsum.photos/id/267/500/600",
-      "thumbnail": "https://picsum.photos/id/267/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 29,
-      "mainPhoto": "https://picsum.photos/id/268/500/600",
-      "thumbnail": "https://picsum.photos/id/268/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 30,
-      "mainPhoto": "https://picsum.photos/id/270/500/600",
-      "thumbnail": "https://picsum.photos/id/270/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 31,
-      "mainPhoto": "https://picsum.photos/id/271/500/600",
-      "thumbnail": "https://picsum.photos/id/271/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 32,
-      "mainPhoto": "https://picsum.photos/id/272/500/600",
-      "thumbnail": "https://picsum.photos/id/272/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 33,
-      "mainPhoto": "https://picsum.photos/id/273/500/600",
-      "thumbnail": "https://picsum.photos/id/273/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 34,
-      "mainPhoto": "https://picsum.photos/id/274/500/600",
-      "thumbnail": "https://picsum.photos/id/274/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
-    },
-    {
-      "id": 35,
-      "mainPhoto": "https://picsum.photos/id/275/500/600",
-      "thumbnail": "https://picsum.photos/id/275/150",
-      "title": "Photo 3",
-      "description": "Description 3",
-      "userId": 42,
-      "userName": "_blue.dog22",
-      "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
+      "id": 2,
+      "post": "I could not be more proud to walk alongside you on this wondrous journey we call life.",
+      "photo": "https://triptobucharest.files.wordpress.com/2013/08/dacia_1300_1.jpg",
+      "category": 2,
+      "gift": 1,
+      "user": {
+       "userId": 42,
+        "userName": "Dirty Betty NY",
+        "userHandle": "boom_22_from_NY",
+        "userPhoto": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2011/11/square-format-05.jpg?resize=600%2C600&ssl=1"
+      }
     }
   ]
 }
