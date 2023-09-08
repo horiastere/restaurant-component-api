@@ -64,7 +64,7 @@ router.get('/post-cards', (req, res) => {
 });
 
 router.get('/post-cards-type/type/:type' , (req, res) => {
-  console.log(reg.params);
+  console.log(req.params);
   res.json(practicePostCards);
 });
 
