@@ -63,7 +63,7 @@ router.get('/post-cards', (req, res) => {
   res.json(practicePostCards);
 });
 
-router.get('/post-cards-type/type/:type' , (req, res) => {
+router.get('/post-cards-type/:type' , (req, res) => {
   console.log(req.params);
   res.json(practicePostCards);
 });
