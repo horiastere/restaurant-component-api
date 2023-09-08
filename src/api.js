@@ -64,7 +64,25 @@ router.get('/post-cards', (req, res) => {
 });
 
 router.get('/post-cards-type/:type' , (req, res) => {
-  res.json({'type': req.params.type});
+  let response = {'error': 'wrong type request'}
+
+  if (req.params.type === 'human') {
+    
+    response = {
+      "outerLayer": "skin",
+      "skinColor": "brown"
+    };
+
+  } else if (req.params.type === 'animal') {
+    
+    response = {
+      "outerLayer": "fur",
+      "color": "gray"
+    };
+
+  }
+
+  res.json(response);
 });
 
 
