@@ -1,0 +1,39 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "First card",
+      "type": "human"
+    },
+    {
+      "id": 2,
+      "title": "Second card",
+      "type": "human"
+    },
+    {
+      "id": 3,
+      "title": "Third card",
+      "type": "animal"
+    },
+    {
+      "id": 4,
+      "title": "Fourth card",
+      "type": "human"
+    },
+    {
+      "id": 5,
+      "title": "Fifth card",
+      "type": "animal"
+    },
+    {
+      "id": 6,
+      "title": "Sixth card",
+      "type": "human"
+    },
+    {
+      "id": 7,
+      "title": "Seventh card",
+      "type": "animal"
+    }
+  ]
+}

@@ -14,6 +14,8 @@ const userPosts42 = require('./responses/user-posts-42');
 const userPosts56 = require('./responses/user-posts-56');
 const beproudPosts = require('./responses/beproud-posts');
 
+const practicePostCards = require('./responses/practice-post-cards');
+
 app.use(cors());
 
 router.get('/', (req, res) => {
@@ -53,6 +55,19 @@ router.get('/user-posts-56', (req, res) => {
 router.get('/beproud-posts', (req, res) => {
   res.json(beproudPosts);
 });
+
+
+
+// Practice
+router.get('/post-cards', (req, res) => {
+  res.json(practicePostCards);
+});
+
+router.get(`/post-cards-type?type=${type}` , (req, res) => {
+  console.log(type);
+  res.json(practicePostCards);
+});
+
 
 app.use('/.netlify/functions/api', router);
 
