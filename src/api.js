@@ -63,8 +63,8 @@ router.get('/post-cards', (req, res) => {
   res.json(practicePostCards);
 });
 
-router.get(`/post-cards-type?type=${type}` , (req, res) => {
-  console.log(type);
+router.get('/post-cards-type/type/:type' , (req, res) => {
+  console.log(reg.params);
   res.json(practicePostCards);
 });
 
