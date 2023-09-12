@@ -70,7 +70,7 @@ router.get('/post-cards-type/:type' , (req, res) => {
     
     response = {
       "outerLayer": "skin",
-      "skinColor": "brown"
+      "color": "brown"
     };
 
   } else if (req.params.type === 'animal') {
